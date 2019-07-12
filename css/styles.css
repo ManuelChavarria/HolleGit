@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root{
   --color1: rgba(219,144,5);
   --color2: rgba(23,180,83,.0788);
@@ -24,6 +25,8 @@ img{
   vertical-align: top;
 }
 
+=======
+>>>>>>> master
 @keyframes lds-pacman-1 {
     0% {
       -webkit-transform: rotate(0deg);
@@ -159,6 +162,7 @@ img{
     -webkit-transform: translate(-100px, -100px) scale(1) translate(100px, 100px);
     transform: translate(-100px, -100px) scale(1) translate(100px, 100px);
   }
+<<<<<<< HEAD
 
 
   /* header */
@@ -275,3 +279,5 @@ img{
     background: var(--color1);
     margin-bottom: var(--espacios-contenido);
   }
+=======
+>>>>>>> master
